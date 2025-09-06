@@ -46,7 +46,9 @@ Market Research: Industry reports and growth projections
 Competitive Intelligence: Channel analysis and strategy identification
 
 📈 Key Metrics Analyzed
-Category                                                Metrics Covered                                                                                                                                                                           Acquisition                                    Cost per lead, organic traffic growth, social CTR                                                                                                     Engagement                                  Course completion rates, time on site, return visitors                                                                                                Conversion                                    Trial-to-paid rates, CAC, CLV, channel performance
+Category                                   Metrics Covered                                                                                                                                                 Acquisition                                cost per lead,organic trafficgrowth,social CTR
+Engagement                                 Course completion rates,time on site,return visitors
+Conversion                                 Trial-to-paid rates,CAC,CLV,channel performance
 💡 Strategic Recommendations
 For New EdTech Companies
 
