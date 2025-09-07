@@ -49,6 +49,8 @@ Competitive Intelligence: Channel analysis and strategy identification
 Category                                   Metrics Covered                                                                                                                                                 Acquisition                                cost per lead,organic trafficgrowth,social CTR
 Engagement                                 Course completion rates,time on site,return visitors
 Conversion                                 Trial-to-paid rates,CAC,CLV,channel performance
+
+
 💡 Strategic Recommendations
 For New EdTech Companies
 
